@@ -1,1 +1,3 @@
 Pageant comes with TortoiseGit. It is a service that runs and you need to add your private key to it, it will then run in the background and as long as you’re using the SSH url as your address to your Github repository you should be good.
+
+So if you add something here, you'll need to work out whether you can use it or not.
